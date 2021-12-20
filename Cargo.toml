@@ -9,3 +9,5 @@ edition = "2021"
 arrow = "6"
 tokio = {version = "1", features=["rt", "rt-multi-thread"]}
 rand = "0.8.4"
+futures = "0.3"
+rand_chacha = "0.3.1"
